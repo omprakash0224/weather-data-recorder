@@ -1,0 +1,8 @@
+Weather Data Summary
+====================
+Average Temperature: 32.6
+Max Temperature: 40.0
+Min Temperature: 25.0
+Std Dev: 5.73
+Most Common Condition: Sunny
+Trend: Decreasing
